@@ -71,7 +71,7 @@
       "prettier --write"
     ]
   },
-  "description": "![tailwind-nextjs-banner](/public/static/images/twitter-card.png)",
+  "description": "![tailwind-nextjs-banner](/public/static/images/JAVAZOLBLOG.png)",
   "main": ".eslintrc.js",
   "directories": {
     "lib": "lib"
